@@ -1,0 +1,10 @@
+body {
+    background-color:#05abc8
+}
+
+form {
+    background-color:#444b91;
+    color:white;
+    border-color: springgreen;
+    border-radius: 10%;
+}
